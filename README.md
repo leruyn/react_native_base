@@ -1,7 +1,6 @@
 # react_native_base
 
-> Base template cho mọi dự án React Native tại Dcorp.  
-> Trích xuất & chuẩn hóa từ kiến trúc **SkyMonitor v7**.
+> Base template cho mọi dự án React Native.  
 
 ---
 
